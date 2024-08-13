@@ -1,0 +1,14 @@
+{
+  "name": "iniciando",
+  "version": "1.0.0",
+  "description": "teste jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Alexandre Miranda Rezende Rocha",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
