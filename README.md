@@ -3,16 +3,16 @@
 
 Projeto de estudo do framework jest para testes unitários e de integrações
 
-
 ## Stack utilizada
 
 - Node
 - Jest
-
+- Babel
 
 ## Aprendizados
 
  Testes unitários e testes de integração em javascript utilizando o framework do jest
+
 ## Rodando localmente
 
 - Clone o projeto
